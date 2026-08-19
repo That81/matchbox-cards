@@ -244,6 +244,111 @@
         "洁"
       ],
       "url": "https://raw.githubusercontent.com/foreverse-app/character-card-skills/main/cards/zh/xuanjing/xuanjing.v2.json"
+    },
+    {
+      "name": "仙侠模拟器",
+      "author": "muted_stress_8581",
+      "description": "修仙转生模拟器：玩家从凡人起步，经历凝气、筑基、结丹、元婴等境界。开场转生青云村，继承 20 岁孤儿记忆。",
+      "tags": [
+        "仙侠",
+        "修真",
+        "模拟器",
+        "RPG",
+        "中文"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/xian-xia-mo-ni-qi/xian-xia-mo-ni-qi.json",
+      "category": "story"
+    },
+    {
+      "name": "修仙之路 2.0",
+      "author": "extroverted_bother_7912",
+      "description": "中文修仙剧情系统卡，门槛低玩法通用，适合剧情模式开局。",
+      "tags": [
+        "Chinese",
+        "NonEnglish",
+        "Scenario",
+        "RPG",
+        "修仙"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/xiu-xian-zhi-lu-2-0/xiu-xian-zhi-lu-2-0.json",
+      "category": "story"
+    },
+    {
+      "name": "瘟疫公司",
+      "author": "chenglong8",
+      "description": "病毒传播模拟器：玩家扮演病毒试图感染全世界，/rep 仿真传播、/opt 调出升级选项。来源：Chub，破限组交流群转载。",
+      "tags": [
+        "系统",
+        "模拟器",
+        "SFW"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/wen-yi-gong-si/wen-yi-gong-si.json",
+      "category": "story"
+    },
+    {
+      "name": "茶蘼",
+      "author": "simple_tune_37249",
+      "description": "原创男性 OC 角色，主导型恋爱向。",
+      "tags": [
+        "Love",
+        "OC",
+        "Male",
+        "Romance",
+        "Dominant"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/cha-mi/cha-mi.json"
+    },
+    {
+      "name": "NXS",
+      "author": "venerated_beach_46998",
+      "description": "原创赛博朋克女性角色，主导型恋爱向。",
+      "tags": [
+        "Romance",
+        "OC",
+        "Female",
+        "Dominant",
+        "Cyberpunk"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/nxs/nxs.json"
+    },
+    {
+      "name": "沈绾卿",
+      "author": "severe_complaint_31315",
+      "description": "原创病娇 OC：优雅偏执守护的富家千金，温柔占有型御姐，纯爱路线。",
+      "tags": [
+        "病娇",
+        "优雅",
+        "偏执守护",
+        "富家千金",
+        "御姐"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/chen-wan-qing/chen-wan-qing.json"
+    },
+    {
+      "name": "梅瑞狄斯",
+      "author": "edible_black_9195",
+      "description": "原创贵族女性角色，从贫困到贵族的反差人设。",
+      "tags": [
+        "Poor",
+        "Noblewoman",
+        "Noble",
+        "Female",
+        "OC"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/mei-rui-di-si/mei-rui-di-si.json"
+    },
+    {
+      "name": "林晓晚",
+      "author": "stupid_game_71591",
+      "description": "玩家十年以上的青梅竹马，安静温柔，有频繁补妆的小习惯。灵异题材慎入。",
+      "tags": [
+        "灵异",
+        "东方恐怖",
+        "恐怖",
+        "陪伴",
+        "青梅竹马"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/lin-xiaowan/lin-xiaowan.json"
     }
   ]
 }
