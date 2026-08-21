@@ -461,6 +461,100 @@
         "纯爱"
       ],
       "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/yu-ze-lan/yu-ze-lan.json"
+    },
+    {
+      "name": "小白子",
+      "author": "leigegehaha（酒馆角色卡合集）",
+      "description": "学校公认的冰山女神，实际是重度社恐、偷偷暗恋你的少女。双角色卡：闺蜜陆璃神助攻，放学后的图书馆日常。反差萌拉满。",
+      "tags": [
+        "BG",
+        "校园",
+        "图书馆",
+        "冰山女神",
+        "社恐",
+        "反差萌",
+        "纯爱",
+        "双人卡"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/xiao-bai-zi/xiao-bai-zi.json"
+    },
+    {
+      "name": "白雪",
+      "author": "leigegehaha（酒馆角色卡合集）",
+      "description": "圣洛丽丝贵族学院高冷学生会长，回到家却是极度依赖哥哥的任性少女。异父异母兄妹的禁忌之恋，校内校外巨大反差。",
+      "tags": [
+        "BG",
+        "校园",
+        "贵族学院",
+        "学生会长",
+        "高冷",
+        "兄妹",
+        "禁忌之恋",
+        "纯爱"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/bai-xue/bai-xue.json"
+    },
+    {
+      "name": "高木加织",
+      "author": "leigegehaha（酒馆角色卡合集）",
+      "description": "与你一起长大的青梅竹马假小子，游泳部部长。豪爽热血、不拘小节，把你当纯粹好哥们，却常在无意间春光乍泄。",
+      "tags": [
+        "BG",
+        "校园",
+        "游泳部",
+        "青梅竹马",
+        "假小子",
+        "运动系",
+        "纯爱"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/gao-mu-jia-zhi/gao-mu-jia-zhi.json"
+    },
+    {
+      "name": "赤木日向",
+      "author": "leigegehaha（酒馆角色卡合集）",
+      "description": "运动系假小子青梅竹马，与你和桐院怜是三人铁三角。双角色卡：元气犬系日向 × 清冷猫系怜，为博你关注暗自较劲。",
+      "tags": [
+        "BG",
+        "校园",
+        "青梅竹马",
+        "假小子",
+        "运动系",
+        "双人卡",
+        "夏日祭",
+        "纯爱"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/chi-mu-ri-xiang/chi-mu-ri-xiang.json"
+    },
+    {
+      "name": "苏雅琳",
+      "author": "leigegehaha（酒馆角色卡合集）",
+      "description": "28 岁广州律所精英御姐，与年下你的热恋。工作时专业清冷，独处时娇憨粘人、爱自称「姐姐」，说话带广东话。",
+      "tags": [
+        "BG",
+        "都市",
+        "职场",
+        "律师",
+        "御姐",
+        "年下",
+        "恋爱"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/su-ya-lin/su-ya-lin.json"
+    },
+    {
+      "name": "东方瑶",
+      "author": "龙傲天",
+      "description": "毒舌傲娇中二纯情女校霸。强势支配欲之下藏着纯情少女心。含状态面板，剧情模式下随互动实时更新。",
+      "tags": [
+        "东方瑶",
+        "女校霸",
+        "傲娇",
+        "毒舌",
+        "中二",
+        "纯情",
+        "反差萌",
+        "状态栏"
+      ],
+      "url": "https://raw.githubusercontent.com/That81/matchbox-cards/main/cards/zh/dong-fang-yao/dong-fang-yao.json"
     }
   ]
 }
